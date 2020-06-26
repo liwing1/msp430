@@ -1,0 +1,1 @@
+"./application.obj" "./main.obj" "./freeRTOS/list.obj" "./freeRTOS/queue.obj" "./freeRTOS/tasks.obj" "./freeRTOS/timers.obj" "./freeRTOS/portable/MemMang/heap_1.obj" "./freeRTOS/portable/port.obj" "./freeRTOS/portable/portext.obj" "../lnk_msp430fr5994.cmd" -llibc.a -llibmath.a 
